@@ -23,6 +23,4 @@ time driving fatigue monitoring and athletic training optimization.
 
 应用的数据主要为 RGBE-GAZE 数据集 
 
-![image](https://github.com/user-attachments/assets/6d64ba22-5189-48fd-abae-4d6465d7b35c)
-
- ![image](https://github.com/qian1230/EI_Gaze_An_event_image_fusion_framework_for_precise_and_high_frequency_remote_gaze_tracking/raw/master/6312d69f65d183c0171be79f32b627c.png)
+ ![image](https://github.com/qian1230/EI_Gaze_An_event_image_fusion_framework_for_precise_and_high_frequency_remote_gaze_tracking/raw/master/6312d69f65d183c0171be79f32b627c.jpg)

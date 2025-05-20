@@ -1,6 +1,6 @@
-# event-base-pipeline-gaze-tracking
-请自行下载shape_predictor_68_face_landmarks.dat
-本代码为结合事件的非端到端特征提取高频远程注视追踪研究
+# EI-Gaze
+Please download shape_predictor_68_face_landmarks.dat by yourself.  
+This code is a research on high-frequency remote gaze tracking for pipline feature extraction combined with events.  
 Remote gaze tracking has emerged as a pivotal technology across multiple domains, in-
 cluding web interface optimization, driver drowsiness prevention, and immersive vir-
 tual reality systems. However, conventional image-based gaze tracking methods are
@@ -19,9 +19,9 @@ a remarkable temporal resolution of 250Hz. Compared with two state-of-the-art me
 ods, RGBE-Gaze and MnistNet, EI-Gaze reduces the mean angular error by 13.3% and
 27.7%, respectively, with an error of only 3.840°. Lastly, EI-Gaze provides a reliable
 solution for remote gaze tracking at 250Hz, enabling practical applications such as real-
-time driving fatigue monitoring and athletic training optimization.
+time driving fatigue monitoring and athletic training optimization.  
 
-应用的数据主要为 RGBE-GAZE 数据集 
 
- ![image](https://github.com/qian1230/EI_Gaze_An_event_image_fusion_framework_for_precise_and_high_frequency_remote_gaze_tracking/raw/main/zonghe.jpg  )
- ![image](https://github.com/qian1230/EI_Gaze-An_event_image_fusion_framework_for_precise_and_high_frequency_remote_gaze_tracking/raw/main/zonghe.jpg)
+The data applied is mainly the [RGBE-GAZE](https://github.com/GuangrongZhao/RGBE-Gaze) dataset  
+
+ ![image](https://github.com/qian1230/EI_Gaze-An_event_image_fusion_framework_for_precise_and_high_frequency_remote_gaze_tracking/raw/main/zonghe.jpg)  
